@@ -10,21 +10,59 @@
 [![Status](https://img.shields.io/badge/Status-Completado-success?style=for-the-badge)]()
 
 ---
-
 ## 📖 Descripción del Proyecto
 
 **Recolectora Integral de Desechos de México (RIDM)** es una empresa dedicada a los servicios de recolección, gestión y reciclaje de residuos con cobertura en CDMX, Estado de México, Hidalgo, Morelos y Querétaro.
 
-Este proyecto consiste en el desarrollo de una **plataforma web corporativa** y un **brochure digital** que reflejan la identidad visual de la empresa y facilitan la comunicación de sus servicios con clientes potenciales.
+Este proyecto consiste en el desarrollo de una **plataforma web corporativa** y un **brochure** que reflejan la identidad visual de la empresa y facilitan la comunicación de sus servicios con clientes potenciales.
 
 ---
+## 🎨 Material Gráfico Complementario
 
+Además del sitio web y brochure, se desarrollaron elementos gráficos que fortalecen la identidad de marca:
+
+### 🦝 Mascota Corporativa - RIDM
+
+Se diseñó una mascota oficial para RIDM que representa los valores de la empresa y conecta emocionalmente con el público.
+
+| Elemento | Descripción |
+| :--- | :--- |
+| **Nombre** | RIDM (Eco-Mascota) |
+| **Concepto** | Representa la economía circular y el compromiso ambiental |
+| **Uso Principal** | Sección "Economía Circular" del sitio web |
+| **Función** | Humanizar la marca y generar cercanía con clientes B2B y B2C |
+| **Mensaje** | "La Confianza de Nuestros Clientes Nos Respalda" |
+| **Ubicación Web** | Sección de Materiales / Economía Circular |
+
+**Aplicaciones de la Mascota:**
+- ✅ Elemento visual en la sección de Economía Circular
+- ✅ Refuerzo de identidad en materiales impresos
+- ✅ Potencial uso en redes sociales y campañas
+- ✅ Material para eventos y reciclatones
+<img width="661" height="377" alt="ChatGPT_Image_18_jul_2026__22_45_06-removebg-preview" src="https://github.com/user-attachments/assets/b75b2b03-9c17-40c9-a995-8e5308574b45" />
+
+
+### 📄 Brochure
+
+Pieza comercial de alto impacto diseñada para presentación B2B:
+
+| Característica | Detalle |
+| :--- | :--- |
+| **Formato** | HTML interactivo (scroll largo) |
+| **Enfoque** | Conversión y generación de leads |
+| **Técnica** | Dolor → Solución → Prueba → Acción |
+| **CTA Principal** | "Solicita tu diagnóstico gratuito" |
+| **Secciones Clave** | Estadísticas de mercado, catálogo resumido, diferenciadores, testimonial, contacto directo |
+<img width="1414" height="2000" alt="Brochure" src="https://github.com/user-attachments/assets/8a7d113e-2ef4-47db-9e1d-7528b1554dae" />
+
+
+---
 ## 📂 Entregables
 
 | Archivo | Descripción |
 | :--- | :--- |
 | `index.html` | Sitio web corporativo completo |
-| `RIDM.png` | Brochure (Complemento visual en Canva) |
+| `Brochure.png` | Brochure (Complemento visual en Canva) |
 
 
 ---
@@ -76,27 +114,33 @@ El brochure es una pieza comercial diseñada para presentación a clientes corpo
 
 ---
 
-📞 Contacto del Cliente
-👤 Nombre
-Lic. Karla Maturano Dotor
-💼 Cargo
-Gerente de Desarrollo de Proyectos y Negocios
-📞 Teléfono 1
-722 365 0238
-📞 Teléfono 2
-722 295 1943
-💬 WhatsApp
-+52 722 365 0238
-📧 Email
-recolectoraintegraldedesechosd@gmail.com
-🗣️ Idiomas
-Español / Inglés
-📍 Ubicación
-Santa Fé, Ciudad de México, CDMX 07440
-🌐 Cobertura
-CDMX · Edo. México · Hidalgo · Morelos · Querétaro
-<div align="center">
+### 🏢 Cliente
 
- Si este proyecto te pareció interesante, ¡deja una estrella en el repositorio!
+| | |
+| :--- | :--- |
+| 👤 **Nombre** | Lic. Karla Maturano Dotor |
+| 💼 **Cargo** | Gerente de Desarrollo de Proyectos y Negocios |
+| 📞 **Teléfono Oficina** | [722 365 0238](tel:7223650238) |
+| 📞 **Teléfono Secundario** | [722 295 1943](tel:7222951943) |
+| 💬 **WhatsApp** | [+52 722 365 0238](https://wa.me/527223650238) |
+| 📧 **Email** | [ridm.mex@gmail.com](mailto:ridm.mex@gmail.com) |
+| 📍 **Ubicación** | Santa Fé, Ciudad de México, CDMX 07440 |
+| 🕐 **Horario** | Lunes a Viernes · 9:00 - 18:00 hrs |
+| 🗣️ **Idiomas** | Español · Inglés |
+| 🌐 **Cobertura** | CDMX · Edo. México · Hidalgo · Morelos · Querétaro |
+
+---
+
+### 👨‍💻 Desarrollador
+
+| | |
+| :--- | :--- |
+| 🧑‍💻 **Nombre** | Julio Adrian Milan Huidobro |
+| 💼 **Rol** | Full Stack Web Developer |
+| 📧 **Email** | [milan.ewok@gmail.com](mailto:milan.ewok@gmail.com) |
+| 🐙 **GitHub** | [tu-usuario-github](https://github.com/tu-usuario) |
+
+<div align="center">
+ 
 RIDM — Soluciones Integrales ♻️
 </div>
