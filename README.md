@@ -138,7 +138,7 @@ El brochure es una pieza comercial diseñada para presentación a clientes corpo
 | 🧑‍💻 **Nombre** | Julio Adrian Milan Huidobro |
 | 💼 **Rol** | Full Stack Web Developer |
 | 📧 **Email** | [milan.ewok@gmail.com](mailto:milan.ewok@gmail.com) |
-| 🐙 **GitHub** | [tu-usuario-github](https://github.com/tu-usuario) |
+| 🐙 **GitHub** | [JULIO-MILAN-github](https://github.com/JULIO-MILAN) |
 
 <div align="center">
  
