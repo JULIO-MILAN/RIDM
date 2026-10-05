@@ -113,7 +113,7 @@ El brochure es una pieza comercial diseñada para presentación a clientes corpo
 - **Git** — Control de versiones
 
 ---
-## Demo en vico: https://recolectoraintegral.com.mx/
+## Demo en vivo: https://recolectoraintegral.com.mx/
 ### 🏢 Cliente
 
 | | |
