@@ -8,15 +8,14 @@
 
 > **Solución web integral para Recolectora Integral de Desechos de México: sitio corporativo, identidad de marca y materiales comerciales. Un caso real de digitalización de procesos empresariales.**
 
-🔗 **[🚀 Ver Sitio en Vivo](https://recolectoraintegral.com.mx/)** | 📂 **[Ver Brochure](#-material-grafico-complementario)**
-
+🔗 **[🚀 Ver Sitio en Vivo](https://recolectoraintegral.com.mx/)** | 
 ---
 
-## 📖 Sobre el Proyecto
+##  Sobre el Proyecto
 
 **Recolectora Integral de Desechos de México (RIDM)** es una empresa de gestión de residuos con cobertura en CDMX, Estado de México, Hidalgo, Morelos y Querétaro. 
 
-### 🎯 El Desafío
+###  El Desafío
 RIDM necesitaba:
 - **Digitalizar su presencia** para alcanzar clientes corporativos (B2B).
 - **Comunicar profesionalmente** sus servicios de recolección y reciclaje.
@@ -45,9 +44,9 @@ Desarrollé una **plataforma web corporativa completa** que incluye:
 
 ---
 
-## ✨ Características del Sitio Web
+##  Características del Sitio Web
 
-### 🏗️ **Arquitectura de Información**
+###  **Arquitectura de Información**
 El sitio incluye 10 secciones estratégicas diseñadas para conversión:
 1. **Inicio** — Hero section con propuesta de valor clara.
 2. **Nosotros** — Historia y valores de la empresa.
@@ -67,9 +66,9 @@ El sitio incluye 10 secciones estratégicas diseñadas para conversión:
 
 ---
 
-## 🎨 Identidad Visual y Branding
+##  Identidad Visual y Branding
 
-### 🦝 Mascota Corporativa "RIDM"
+###  Mascota Corporativa "RIDM"
 Desarrollé una eco-mascota que representa los valores de la empresa:
 - **Concepto:** Economía circular personificada.
 - **Objetivo:** Humanizar la marca y generar cercanía emocional.
@@ -83,7 +82,7 @@ Pieza comercial de alto impacto para ventas B2B:
 - **Estrategia:** Dolor → Solución → Prueba → Acción.
 - **CTA Principal:** "Solicita tu diagnóstico gratuito".
 
-### 🎨 Sistema de Diseño
+###  Sistema de Diseño
 | Elemento | Especificación |
 | :--- | :--- |
 | **Color Principal** | `#2D8A3E` (Verde ambiental) |
@@ -95,7 +94,7 @@ Pieza comercial de alto impacto para ventas B2B:
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 El proyecto utiliza una **arquitectura monolítica optimizada** para el frontend, centralizando la lógica y los estilos para máxima portabilidad y velocidad de carga inicial:
 
@@ -110,7 +109,7 @@ ridm/
 
 ---
 
-## ⚙️ Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 ### Opción 1: Ver en Vivo (Recomendado)
 Visita: **[https://recolectoraintegral.com.mx/](https://recolectoraintegral.com.mx/)**
@@ -128,7 +127,7 @@ cd ridm
 
 ---
 
-## 🧠 Retos de Ingeniería y Soluciones
+##  Retos de Ingeniería y Soluciones
 
 ### 1️⃣ **Rendimiento y Portabilidad (Single-File Architecture)**
 - **Reto:** Garantizar que el sitio cargue instantáneamente y sea fácil de desplegar o mover entre servidores sin romper rutas relativas.
@@ -152,7 +151,7 @@ cd ridm
 
 ---
 
-## 🚀 Próximos Pasos y Mejoras Futuras
+##  Próximos Pasos y Mejoras Futuras
 
 1. **Modularización:** Si el sitio escala a más de 15 páginas, migrar a una arquitectura con archivos CSS/JS separados o un generador de sitios estáticos (Astro/Next.js).
 2. **Backend para ECOShop:** Implementar carrito de compras funcional con pasarela de pagos.
@@ -162,7 +161,7 @@ cd ridm
 
 ---
 
-## 📊 Capturas de Pantalla
+##  Identidad Visual
 
 <details>
 <summary><b>🖼️ Click para ver galería</b></summary>
@@ -172,12 +171,12 @@ cd ridm
 <tr>
 <td align="center">
 <b>Brochure / Material Visual</b><br><br>
-<img src="https://github.com/user-attachments/assets/8a7d113e-2ef4-47db-9e1d-7528b1554dae" width="400">
+<img src="https://github.com/user-attachments/assets/303d89cc-4571-4661-921c-9ada84047203" width="400">
 </td>
 
 <td align="center">
 <b>Mascota Corporativa RIDM</b><br><br>
-<img src="https://github.com/user-attachments/assets/b75b2b03-9c17-40c9-a995-8e5308574b45" width="400">
+<img src="https://github.com/user-attachments/assets/7faaefeb-9c21-4448-bfe1-f3eb70cdfc83" width="400">
 </td>
 </tr>
 </table>
@@ -186,9 +185,9 @@ cd ridm
 
 ---
 
-## 👥 Información del Proyecto
+##  Información del Proyecto
 
-### 🏢 Cliente
+### Cliente
 | | |
 | :--- | :--- |
 | **Empresa** | Recolectora Integral de Desechos de México (RIDM) |
